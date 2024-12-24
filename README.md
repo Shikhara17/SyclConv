@@ -21,6 +21,6 @@ To get started with EfficientNet SYCL, follow these steps to set up the environm
 1. **Clone the Repository**
    ```bash
    Go through the documentation for custom cunfiguration : https://github.com/KLab-AI3/ai3.git
-   git clone 
+   git clone https://github.com/Shikhara17/SyclConv.git
    cd SyclConv
    
